@@ -1,6 +1,6 @@
 {
     "@context": "https://danielruss.github.io/c4cp",
-    "@id": "https://danielruss.github.io/c4cp/c0002.json",
-    "value": false,
+    "@id": "https://danielruss.github.io/c4cp/c0004.json",
+    "value": "integer",
     "type" : "response_type"
 }
